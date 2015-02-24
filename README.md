@@ -1,1 +1,1 @@
-# ping_pong
+# ping_pong in Erlang for testing distribution
